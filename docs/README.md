@@ -1,9 +1,9 @@
 
-# 🧠 faff v0 — Internal Ticketing & Chat Assignment Platform
+# Internal Ticketing & Chat Assignment Platform
 
-faff v0 is a lightweight internal tool for operations teams to manage tasks, collaborate via threaded group chat, and get instant summaries of discussions with AI support.
+It is a lightweight internal tool for operations teams to manage tasks, collaborate via threaded group chat, and get instant summaries of discussions with AI support.
 
-## 🚀 Features
+## Features
 - Task Management with inline status/assignment
 - Threaded Chat with real-time WebSocket support
 - AI Summarization with entity extraction
@@ -18,5 +18,3 @@ faff v0 is a lightweight internal tool for operations teams to manage tasks, col
 
 ## Tech Stack
 FastAPI, React, PostgreSQL, LangChain, socket.io
-
-MIT License
